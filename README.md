@@ -11,11 +11,11 @@ All directories and scripts are numbered in the order in which they were perform
 
 ## Data
 
- - 16S rRNA gene Illumina sequence data
+ - 16S rRNA gene Illumina sequence data (bacteria).
 				 
 	 - The raw sequencing data are 	available at:
 	
- - ITS rRNA gene Illumina sequence data
+ - ITS gene Illumina sequence data (fungi).
 
 	 - The raw sequencing data are available at:
 
