@@ -19,9 +19,5 @@ All directories and scripts are numbered in the order in which they were perform
 
 	 - The raw sequencing data are available at:
 
- - Sample metadata (treatments, replicates, host information, etc.)
-
-	 - See Supplementary Table 1 of the manuscript
-
 ![*Photo Credit: Lazy River Vineyard*](https://lazyrivervineyard.com/wp-content/uploads/2015/07/Fruit-Banner.jpg)
 *Photo Credit: Lazy River Vineyard*
