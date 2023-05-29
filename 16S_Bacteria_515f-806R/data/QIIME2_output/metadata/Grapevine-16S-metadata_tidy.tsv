@@ -1,0 +1,190 @@
+sample-id	sample-type	day	fung-treatment	pma-treatment	sample	sample-group
+#q2:types	categorical	numeric	categorical	categorical	categorical	categorical
+FvP-0d-minus-CH1	true sample	0	Copper-High	FALSE	0d-CH1	Copper High d0
+FvP-0d-minus-CH2	true sample	0	Copper-High	FALSE	0d-CH2	Copper High d0
+FvP-0d-minus-CH3	true sample	0	Copper-High	FALSE	0d-CH3	Copper High d0
+FvP-0d-minus-CL1	true sample	0	Copper-Low	FALSE	0d-CL1	Copper Low d0
+FvP-0d-minus-CL2	true sample	0	Copper-Low	FALSE	0d-CL2	Copper Low d0
+FvP-0d-minus-CL3	true sample	0	Copper-Low	FALSE	0d-CL3	Copper Low d0
+FvP-0d-plus-CH1	true sample	0	Copper-High	TRUE	0d-PMA-CH1	Copper High d0 +PMA
+FvP-0d-plus-CH2	true sample	0	Copper-High	TRUE	0d-PMA-CH2	Copper High d0 +PMA
+FvP-0d-plus-CH3	true sample	0	Copper-High	TRUE	0d-PMA-CH3	Copper High d0 +PMA
+FvP-0d-plus-CL1	true sample	0	Copper-Low	TRUE	0d-PMA-CL1	Copper Low d0 +PMA
+FvP-0d-plus-CL2	true sample	0	Copper-Low	TRUE	0d-PMA-CL2	Copper Low d0 +PMA
+FvP-0d-plus-CL3	true sample	0	Copper-Low	TRUE	0d-PMA-CL3	Copper Low d0 +PMA
+FvP-0d-plus-SH1	true sample	0	Sulphur-High	TRUE	0d-PMA-SH1	Sulphur High d0 +PMA
+FvP-0d-plus-SH2	true sample	0	Sulphur-High	TRUE	0d-PMA-SH2	Sulphur High d0 +PMA
+FvP-0d-plus-SH3	true sample	0	Sulphur-High	TRUE	0d-PMA-SH3	Sulphur High d0 +PMA
+FvP-0d-plus-SL1	true sample	0	Sulphur-Low	TRUE	0d-PMA-SL1	Sulphur Low d0 +PMA
+FvP-0d-plus-SL2	true sample	0	Sulphur-Low	TRUE	0d-PMA-SL2	Sulphur Low d0 +PMA
+FvP-0d-plus-SL3	true sample	0	Sulphur-Low	TRUE	0d-PMA-SL3	Sulphur Low d0 +PMA
+FvP-0d-plus-W1	true sample	0	Water	TRUE	0d-PMA-W1	Water Control d0 +PMA
+FvP-0d-plus-W2	true sample	0	Water	TRUE	0d-PMA-W2	Water Control d0 +PMA
+FvP-0d-plus-W3	true sample	0	Water	TRUE	0d-PMA-W3	Water Control d0 +PMA
+FvP-0d-minus-SH1	true sample	0	Sulphur-High	FALSE	0d-SH1	Sulphur High d0
+FvP-0d-minus-SH2	true sample	0	Sulphur-High	FALSE	0d-SH2	Sulphur High d0
+FvP-0d-minus-SH3	true sample	0	Sulphur-High	FALSE	0d-SH3	Sulphur High d0
+FvP-0d-minus-SL1	true sample	0	Sulphur-Low	FALSE	0d-SL1	Sulphur Low d0
+FvP-0d-minus-SL2	true sample	0	Sulphur-Low	FALSE	0d-SL2	Sulphur Low d0
+FvP-0d-minus-SL3	true sample	0	Sulphur-Low	FALSE	0d-SL3	Sulphur Low d0
+FvP-0d-minus-W1	true sample	0	Water	FALSE	0d-W1	Water Control d0
+FvP-0d-minus-W2	true sample	0	Water	FALSE	0d-W2	Water Control d0
+FvP-0d-minus-W3	true sample	0	Water	FALSE	0d-W3	Water Control d0
+FvP-14d-minus-CH1	true sample	14	Copper-High	FALSE	14d-CH1	Copper High d14
+FvP-14d-minus-CH2	true sample	14	Copper-High	FALSE	14d-CH2	Copper High d14
+FvP-14d-minus-CH3	true sample	14	Copper-High	FALSE	14d-CH3	Copper High d14
+FvP-14d-minus-CL1	true sample	14	Copper-Low	FALSE	14d-CL1	Copper Low d14
+FvP-14d-minus-CL2	true sample	14	Copper-Low	FALSE	14d-CL2	Copper Low d14
+FvP-14d-minus-CL3	true sample	14	Copper-Low	FALSE	14d-CL3	Copper Low d14
+FvP-14d-plus-CH1	true sample	14	Copper-High	TRUE	14d-PMA-CH1	Copper High d14 +PMA
+FvP-14d-plus-CH2	true sample	14	Copper-High	TRUE	14d-PMA-CH2	Copper High d14 +PMA
+FvP-14d-plus-CH3	true sample	14	Copper-High	TRUE	14d-PMA-CH3	Copper High d14 +PMA
+FvP-14d-plus-CL1	true sample	14	Copper-Low	TRUE	14d-PMA-CL1	Copper Low d14 +PMA
+FvP-14d-plus-CL2	true sample	14	Copper-Low	TRUE	14d-PMA-CL2	Copper Low d14 +PMA
+FvP-14d-plus-CL3	true sample	14	Copper-Low	TRUE	14d-PMA-CL3	Copper Low d14 +PMA
+FvP-14d-plus-SH1	true sample	14	Sulphur-High	TRUE	14d-PMA-SH1	Sulphur High d14 +PMA
+FvP-14d-plus-SH2	true sample	14	Sulphur-High	TRUE	14d-PMA-SH2	Sulphur High d14 +PMA
+FvP-14d-plus-SH3	true sample	14	Sulphur-High	TRUE	14d-PMA-SH3	Sulphur High d14 +PMA
+FvP-14d-plus-SL1	true sample	14	Sulphur-Low	TRUE	14d-PMA-SL1	Sulphur Low d14 +PMA
+FvP-14d-plus-SL2	true sample	14	Sulphur-Low	TRUE	14d-PMA-SL2	Sulphur Low d14 +PMA
+FvP-14d-plus-SL3	true sample	14	Sulphur-Low	TRUE	14d-PMA-SL3	Sulphur Low d14 +PMA
+FvP-14d-plus-W1	true sample	14	Water	TRUE	14d-PMA-W1	Water Control d14 +PMA
+FvP-14d-plus-W2	true sample	14	Water	TRUE	14d-PMA-W2	Water Control d14 +PMA
+FvP-14d-plus-W3	true sample	14	Water	TRUE	14d-PMA-W3	Water Control d14 +PMA
+FvP-14d-minus-SH1	true sample	14	Sulphur-High	FALSE	14d-SH1	Sulphur High d14
+FvP-14d-minus-SH2	true sample	14	Sulphur-High	FALSE	14d-SH2	Sulphur High d14
+FvP-14d-minus-SH3	true sample	14	Sulphur-High	FALSE	14d-SH3	Sulphur High d14
+FvP-14d-minus-SL1	true sample	14	Sulphur-Low	FALSE	14d-SL1	Sulphur Low d14
+FvP-14d-minus-SL2	true sample	14	Sulphur-Low	FALSE	14d-SL2	Sulphur Low d14
+FvP-14d-minus-SL3	true sample	14	Sulphur-Low	FALSE	14d-SL3	Sulphur Low d14
+FvP-14d-minus-W1	true sample	14	Water	FALSE	14d-W1	Water Control d14
+FvP-14d-minus-W2	true sample	14	Water	FALSE	14d-W2	Water Control d14
+FvP-14d-minus-W3	true sample	14	Water	FALSE	14d-W3	Water Control d14
+FvP-1d-minus-CH1	true sample	1	Copper-High	FALSE	1d-CH1	Copper High d1
+FvP-1d-minus-CH2	true sample	1	Copper-High	FALSE	1d-CH2	Copper High d1
+FvP-1d-minus-CH3	true sample	1	Copper-High	FALSE	1d-CH3	Copper High d1
+FvP-1d-minus-CL1	true sample	1	Copper-Low	FALSE	1d-CL1	Copper Low d1
+FvP-1d-minus-CL2	true sample	1	Copper-Low	FALSE	1d-CL2	Copper Low d1
+FvP-1d-minus-CL3	true sample	1	Copper-Low	FALSE	1d-CL3	Copper Low d1
+FvP-1d-plus-CH1	true sample	1	Copper-High	TRUE	1d-PMA-CH1	Copper High d1 +PMA
+FvP-1d-plus-CH2	true sample	1	Copper-High	TRUE	1d-PMA-CH2	Copper High d1 +PMA
+FvP-1d-plus-CH3	true sample	1	Copper-High	TRUE	1d-PMA-CH3	Copper High d1 +PMA
+FvP-1d-plus-CL1	true sample	1	Copper-Low	TRUE	1d-PMA-CL1	Copper Low d1 +PMA
+FvP-1d-plus-CL2	true sample	1	Copper-Low	TRUE	1d-PMA-CL2	Copper Low d1 +PMA
+FvP-1d-plus-CL3	true sample	1	Copper-Low	TRUE	1d-PMA-CL3	Copper Low d1 +PMA
+FvP-1d-plus-SH1	true sample	1	Sulphur-High	TRUE	1d-PMA-SH1	Sulphur High d1 +PMA
+FvP-1d-plus-SH2	true sample	1	Sulphur-High	TRUE	1d-PMA-SH2	Sulphur High d1 +PMA
+FvP-1d-plus-SH3	true sample	1	Sulphur-High	TRUE	1d-PMA-SH3	Sulphur High d1 +PMA
+FvP-1d-plus-SL1	true sample	1	Sulphur-Low	TRUE	1d-PMA-SL1	Sulphur Low d1 +PMA
+FvP-1d-plus-SL2	true sample	1	Sulphur-Low	TRUE	1d-PMA-SL2	Sulphur Low d1 +PMA
+FvP-1d-plus-SL3	true sample	1	Sulphur-Low	TRUE	1d-PMA-SL3	Sulphur Low d1 +PMA
+FvP-1d-plus-W1	true sample	1	Water	TRUE	1d-PMA-W1	Water Control d1 +PMA
+FvP-1d-plus-W2	true sample	1	Water	TRUE	1d-PMA-W2	Water Control d1 +PMA
+FvP-1d-plus-W3	true sample	1	Water	TRUE	1d-PMA-W3	Water Control d1 +PMA
+FvP-1d-minus-SH1	true sample	1	Sulphur-High	FALSE	1d-SH1	Sulphur High d1
+FvP-1d-minus-SH2	true sample	1	Sulphur-High	FALSE	1d-SH2	Sulphur High d1
+FvP-1d-minus-SH3	true sample	1	Sulphur-High	FALSE	1d-SH3	Sulphur High d1
+FvP-1d-minus-SL1	true sample	1	Sulphur-Low	FALSE	1d-SL1	Sulphur Low d1
+FvP-1d-minus-SL2	true sample	1	Sulphur-Low	FALSE	1d-SL2	Sulphur Low d1
+FvP-1d-minus-SL3	true sample	1	Sulphur-Low	FALSE	1d-SL3	Sulphur Low d1
+FvP-1d-minus-W1	true sample	1	Water	FALSE	1d-W1	Water Control d1
+FvP-1d-minus-W2	true sample	1	Water	FALSE	1d-W2	Water Control d1
+FvP-1d-minus-W3	true sample	1	Water	FALSE	1d-W3	Water Control d1
+FvP-21d-minus-CH1	true sample	21	Copper-High	FALSE	21d-CH1	Copper High d21
+FvP-21d-minus-CH2	true sample	21	Copper-High	FALSE	21d-CH2	Copper High d21
+FvP-21d-minus-CH3	true sample	21	Copper-High	FALSE	21d-CH3	Copper High d21
+FvP-21d-minus-CL1	true sample	21	Copper-Low	FALSE	21d-CL1	Copper Low d21
+FvP-21d-minus-CL2	true sample	21	Copper-Low	FALSE	21d-CL2	Copper Low d21
+FvP-21d-minus-CL3	true sample	21	Copper-Low	FALSE	21d-CL3	Copper Low d21
+FvP-21d-plus-CH1	true sample	21	Copper-High	TRUE	21d-PMA-CH1	Copper High d21 +PMA
+FvP-21d-plus-CH2	true sample	21	Copper-High	TRUE	21d-PMA-CH2	Copper High d21 +PMA
+FvP-21d-plus-CH3	true sample	21	Copper-High	TRUE	21d-PMA-CH3	Copper High d21 +PMA
+FvP-21d-plus-CL1	true sample	21	Copper-Low	TRUE	21d-PMA-CL1	Copper Low d21 +PMA
+FvP-21d-plus-CL2	true sample	21	Copper-Low	TRUE	21d-PMA-CL2	Copper Low d21 +PMA
+FvP-21d-plus-CL3	true sample	21	Copper-Low	TRUE	21d-PMA-CL3	Copper Low d21 +PMA
+FvP-21d-plus-SH1	true sample	21	Sulphur-High	TRUE	21d-PMA-SH1	Sulphur High d21 +PMA
+FvP-21d-plus-SH2	true sample	21	Sulphur-High	TRUE	21d-PMA-SH2	Sulphur High d21 +PMA
+FvP-21d-plus-SH3	true sample	21	Sulphur-High	TRUE	21d-PMA-SH3	Sulphur High d21 +PMA
+FvP-21d-plus-SL1	true sample	21	Sulphur-Low	TRUE	21d-PMA-SL1	Sulphur Low d21 +PMA
+FvP-21d-plus-SL2	true sample	21	Sulphur-Low	TRUE	21d-PMA-SL2	Sulphur Low d21 +PMA
+FvP-21d-plus-SL3	true sample	21	Sulphur-Low	TRUE	21d-PMA-SL3	Sulphur Low d21 +PMA
+FvP-21d-plus-W1	true sample	21	Water	TRUE	21d-PMA-W1	Water Control d21 +PMA
+FvP-21d-plus-W2	true sample	21	Water	TRUE	21d-PMA-W2	Water Control d21 +PMA
+FvP-21d-plus-W3	true sample	21	Water	TRUE	21d-PMA-W3	Water Control d21 +PMA
+FvP-21d-minus-SH1	true sample	21	Sulphur-High	FALSE	21d-SH1	Sulphur High d21
+FvP-21d-minus-SH2	true sample	21	Sulphur-High	FALSE	21d-SH2	Sulphur High d21
+FvP-21d-minus-SH3	true sample	21	Sulphur-High	FALSE	21d-SH3	Sulphur High d21
+FvP-21d-minus-SL1	true sample	21	Sulphur-Low	FALSE	21d-SL1	Sulphur Low d21
+FvP-21d-minus-SL2	true sample	21	Sulphur-Low	FALSE	21d-SL2	Sulphur Low d21
+FvP-21d-minus-SL3	true sample	21	Sulphur-Low	FALSE	21d-SL3	Sulphur Low d21
+FvP-21d-minus-W1	true sample	21	Water	FALSE	21d-W1	Water Control d21
+FvP-21d-minus-W2	true sample	21	Water	FALSE	21d-W2	Water Control d21
+FvP-21d-minus-W3	true sample	21	Water	FALSE	21d-W3	Water Control d21
+FvP-7d-minus-CH1	true sample	7	Copper-High	FALSE	7d-CH1	Copper High d7
+FvP-7d-minus-CH2	true sample	7	Copper-High	FALSE	7d-CH2	Copper High d7
+FvP-7d-minus-CH3	true sample	7	Copper-High	FALSE	7d-CH3	Copper High d7
+FvP-7d-minus-CL1	true sample	7	Copper-Low	FALSE	7d-CL1	Copper Low d7
+FvP-7d-minus-CL2	true sample	7	Copper-Low	FALSE	7d-CL2	Copper Low d7
+FvP-7d-minus-CL3	true sample	7	Copper-Low	FALSE	7d-CL3	Copper Low d7
+FvP-7d-plus-CH1	true sample	7	Copper-High	TRUE	7d-PMA-CH1	Copper High d7 +PMA
+FvP-7d-plus-CH2	true sample	7	Copper-High	TRUE	7d-PMA-CH2	Copper High d7 +PMA
+FvP-7d-plus-CH3	true sample	7	Copper-High	TRUE	7d-PMA-CH3	Copper High d7 +PMA
+FvP-7d-plus-CL1	true sample	7	Copper-Low	TRUE	7d-PMA-CL1	Copper Low d7 +PMA
+FvP-7d-plus-CL2	true sample	7	Copper-Low	TRUE	7d-PMA-CL2	Copper Low d7 +PMA
+FvP-7d-plus-CL3	true sample	7	Copper-Low	TRUE	7d-PMA-CL3	Copper Low d7 +PMA
+FvP-7d-plus-SH1	true sample	7	Sulphur-High	TRUE	7d-PMA-SH1	Sulphur High d7 +PMA
+FvP-7d-plus-SH2	true sample	7	Sulphur-High	TRUE	7d-PMA-SH2	Sulphur High d7 +PMA
+FvP-7d-plus-SH3	true sample	7	Sulphur-High	TRUE	7d-PMA-SH3	Sulphur High d7 +PMA
+FvP-7d-plus-SL1	true sample	7	Sulphur-Low	TRUE	7d-PMA-SL1	Sulphur Low d7 +PMA
+FvP-7d-plus-SL2	true sample	7	Sulphur-Low	TRUE	7d-PMA-SL2	Sulphur Low d7 +PMA
+FvP-7d-plus-SL3	true sample	7	Sulphur-Low	TRUE	7d-PMA-SL3	Sulphur Low d7 +PMA
+FvP-7d-plus-W1	true sample	7	Water	TRUE	7d-PMA-W1	Water Control d7 +PMA
+FvP-7d-plus-W2	true sample	7	Water	TRUE	7d-PMA-W2	Water Control d7 +PMA
+FvP-7d-plus-W3	true sample	7	Water	TRUE	7d-PMA-W3	Water Control d7 +PMA
+FvP-7d-minus-SH1	true sample	7	Sulphur-High	FALSE	7d-SH1	Sulphur High d7
+FvP-7d-minus-SH2	true sample	7	Sulphur-High	FALSE	7d-SH2	Sulphur High d7
+FvP-7d-minus-SH3	true sample	7	Sulphur-High	FALSE	7d-SH3	Sulphur High d7
+FvP-7d-minus-SL1	true sample	7	Sulphur-Low	FALSE	7d-SL1	Sulphur Low d7
+FvP-7d-minus-SL2	true sample	7	Sulphur-Low	FALSE	7d-SL2	Sulphur Low d7
+FvP-7d-minus-SL3	true sample	7	Sulphur-Low	FALSE	7d-SL3	Sulphur Low d7
+FvP-7d-minus-W1	true sample	7	Water	FALSE	7d-W1	Water Control d7
+FvP-7d-minus-W2	true sample	7	Water	FALSE	7d-W2	Water Control d7
+FvP-7d-minus-W3	true sample	7	Water	FALSE	7d-W3	Water Control d7
+FvP-EBC1	control				EBC1	
+FvP-EBC10	control				EBC10	
+FvP-EBC11	control				EBC11	
+FvP-EBC12	control				EBC12	
+FvP-EBC13	control				EBC13	
+FvP-EBC14	control				EBC14	
+FvP-EBC15	control				EBC15	
+FvP-EBC16	control				EBC16	
+FvP-EBC17	control				EBC17	
+FvP-EBC18	control				EBC18	
+FvP-EBC19	control				EBC19	
+FvP-EBC2	control				EBC2	
+FvP-EBC20	control				EBC20	
+FvP-EBC3	control				EBC3	
+FvP-EBC4	control				EBC4	
+FvP-EBC5	control				EBC5	
+FvP-EBC6	control				EBC6	
+FvP-EBC7	control				EBC7	
+FvP-EBC8	control				EBC8	
+FvP-EBC9	control				EBC9	
+FvP-NTC1	control				NTC1	
+FvP-NTC2	control				NTC2	
+FvP-NTC3	control				NTC3	
+FvP-NTC4	control				NTC4	
+FvP-NTC5	control				NTC5	
+FvP-NTC6	control				NTC6	
+FvP-NTC7	control				NTC7	
+FvP-NTC8	control				NTC8	
+FvP-SB1	control				SB1	
+FvP-SB10	control				SB10	
+FvP-SB2	control				SB2	
+FvP-SB3	control				SB3	
+FvP-SB4	control				SB4	
+FvP-SB5	control				SB5	
+FvP-SB6	control				SB6	
+FvP-SB7	control				SB7	
+FvP-SB8	control				SB8	
+FvP-SB9	control				SB9	
