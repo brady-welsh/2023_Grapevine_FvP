@@ -1,4 +1,4 @@
-This Directory contains all relavent files and code for the 16S portion of the analysis.
+#### This Directory contains all relavent files and code for the 16S portion of the analysis.
 
 All code used can be found in the "code" directory.
 
