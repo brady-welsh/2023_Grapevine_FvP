@@ -3,7 +3,7 @@
 ## Summary
 This repository comprises the code and data used for the analysis in the research article:
 
-> Welsh, B. L., Eisenhofer, E., Bastian, S. E. P., Kidd, S. P. 2023. "The Effects of Copper- and Sulphur-Based Fungicides on the Leaf Phyllosphere Microbiome of Grapevines."
+> Welsh, B. L., Eisenhofer, E., Bastian, S. E. P., Kidd, S. P. 2023. "The Effects of Copper- and Sulphur-Based Fungicides on the Leaf Phyllosphere Microbiome of Grapevines." Unpublished.
 
 These notebooks outline the methods (eg., code) that were used for the analyses shown within the publication.
 
