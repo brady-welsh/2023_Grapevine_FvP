@@ -19,5 +19,5 @@ All directories and scripts are numbered in the order in which they were perform
 
 	 - The raw sequencing data: BioProject PRJNA1000758
 
-![image](https://github.com/brady-welsh/2023_Grapevine_FvP/assets/52347316/4a6c4eb5-750e-4b9a-bc85-cae2276ab190)
-*Photo Credit: Fletcher Bay Winery*
+![image](https://github.com/brady-welsh/2023_Grapevine_FvP/assets/52347316/0dd456f1-05df-4626-93f6-15a1e9501308)
+*Photo Credit: Smith's Wine Store*
