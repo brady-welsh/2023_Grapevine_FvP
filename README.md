@@ -19,5 +19,5 @@ All directories and scripts are numbered in the order in which they were perform
 
 	 - The raw sequencing data: BioProject PRJNA1000758
 
-![*Photo Credit: Lazy River Vineyard*](https://lazyrivervineyard.com/wp-content/uploads/2015/07/Fruit-Banner.jpg)
+![image](https://github.com/brady-welsh/2023_Grapevine_FvP/assets/52347316/cabfa9b2-6cc0-483a-961b-45cbf574ac00)
 *Photo Credit: Lazy River Vineyard*
